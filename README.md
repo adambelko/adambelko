@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Adam Belko and I am a passionate Front End Developer.
 
