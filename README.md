@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Adam Belko and I am a passionate Front End Developer.
+I'm a Front End Developer with a passion for always learning something new.
 
 -   Currently learning React
 
