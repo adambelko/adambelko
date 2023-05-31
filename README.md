@@ -2,7 +2,7 @@
 
 I'm a Front End Developer with a passion for always learning something new.
 
--   Currently learning React
+-   Currently learning React and Ruby
 
 -   Feel free to contact me on: belkoadam@gmail.com
 
