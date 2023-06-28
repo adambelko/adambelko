@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Front End Developer with a passion for always learning something new.
+I'm a Software Engineer with a passion for always learning something new.
 
 -   Currently learning React and Ruby
 
