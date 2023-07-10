@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with a passion for always learning something new.
 
--   Currently learning React and Ruby
+-   Currently learning React and Ruby on Rails
 
 -   Feel free to contact me on: belkoadam@gmail.com
 
@@ -13,6 +13,7 @@ I'm a Software Engineer with a passion for always learning something new.
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
