@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with a passion for always learning something new.
 
--   Currently learning React and Ruby on Rails
+-   Currently learning React and NodeJS
 
 -   Feel free to contact me on: belkoadam@gmail.com
 
