@@ -2,9 +2,8 @@
 
 I'm a Software Developer with a passion for always learning something new.
 
--   Currently learning React and Node
+Feel free to contact me on belkoadam@gmail.com
 
--   Feel free to contact me on: belkoadam@gmail.com
 
 ## My Tech current Stack:
 
