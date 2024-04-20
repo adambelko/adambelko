@@ -3,6 +3,7 @@
 I'm a Software Developer with a passion for always learning something new.
 
 Check out my website <a href="www.adambelko.com" target="_blank">www.adambelko.com</a> for more information about me.
+
 Contact me on belkoadam@gmail.com or on my <a href="https://www.linkedin.com/in/adam-belko/" targer="_blank">LinkedIn</a> profile.
 
 
